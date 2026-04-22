@@ -9,7 +9,8 @@ for (let i = 0; i < 3; i++) {
         break;
     }
     else {
-        alert("Wrong password, try again");
+        alert("Wrong password, try again");32.06
+        230.6
         password = prompt("Enter your password");
     }
 }
